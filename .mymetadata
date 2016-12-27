@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="advertiseSystem"
+  id="myeclipse.1482253242460"
+  context-root="/advertiseSystem"
+  j2ee-spec="5.0"
+  archive="advertiseSystem.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
